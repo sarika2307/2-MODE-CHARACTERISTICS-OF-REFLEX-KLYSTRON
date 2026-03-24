@@ -14,7 +14,7 @@ To study mode characteristics of reflex klystron and hence to determine mode num
 6.	Detector mount MTI/ NVIS - 209
 7.	Waveguide stands MTI/NVIS
 8.	VSWR meter MTI VS 501/NVIS
-9.	Cathode Ray Oscilloscope Scientech -801C
+9.	Cathode Ray Oscilloscope Scientech -801C.
     
 **Experimental Setup:**
 
